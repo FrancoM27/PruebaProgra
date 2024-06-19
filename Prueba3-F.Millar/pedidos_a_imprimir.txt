@@ -1,0 +1,6 @@
+nombre y apellido: franco
+Direcciones: a
+Sectores: norte
+pauetes pequeños: 1
+paquetes medianos: 1
+paquetes grandes: 1
